@@ -1,1 +1,29 @@
 # (PART\*) Student Guide to AnVIL {-}
+
+
+# AnVIL Workspace
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+You can easily access the data on AnVIL by cloning the dedicated workspace. These sections guide you through creating an AnVIL account and accessing the workspace.
+
+
+## Create Google Account
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/_child_google_create_account.Rmd",
+  repo_name = "jhudsl/AnVIL_Template"
+)
+```
+
+## Clone the Workspace
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/_child_workspace_clone.Rmd",
+  repo_name = "jhudsl/AnVIL_Template"
+)
+```
