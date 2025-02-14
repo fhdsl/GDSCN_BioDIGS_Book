@@ -1,6 +1,6 @@
 ---
 title: "BioDIGS: Getting Started"
-date: "February 11, 2025"
+date: "February 14, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
