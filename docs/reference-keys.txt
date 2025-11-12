@@ -15,6 +15,9 @@ sponsors
 analytical-and-computational-support
 biodigs-data
 sample-metadata
-soil-testing-data
-genomics-and-metagenomics-data
+soil-property-data
+genomics-and-metagenomics-data-and-metadata
+biodigsdata-r-package
+installation
+usage
 references
